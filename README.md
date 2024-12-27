@@ -26,6 +26,7 @@ Y/N: Restart or quit after game over.
 Contact:
 Author: Apurbo Sharma
 Email: apurbasharma23@gmail.com
+Linkedln: https://www.linkedin.com/in/apurbo-sharma-842570301/
 GitHub: https://github.com/apurbo04
 
 Feel free to reach out for any questions or suggestions!
