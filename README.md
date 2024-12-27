@@ -1,0 +1,1 @@
+The "Car Game" is a classic top-down car driving simulation where players control a vehicle, navigating a road while avoiding obstacles and collecting points. This project is designed with simplicity in mind, yet it introduces key game development concepts such as sprite management, animation, and collision detection.
