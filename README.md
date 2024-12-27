@@ -8,7 +8,7 @@ Game Over Display: Displays a "Game Over" screen with the option to restart or q
 Simple and Lightweight: Easy to run on most systems.
 
 Requirements:
-Python >3.8
+Python >3.8,
 Pygame library
 
 Usage:
